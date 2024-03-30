@@ -6,7 +6,7 @@
 
 <h3 align="center"> Wellcome </h3>
 <div align="center">
-  <h3> Home page </h3>
+  <h3>My Home page </h3>
   <a href="https://paulsung.netlify.app/">
-    <img src="https://img.shields.io/badge/Home page-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Paulsung Home page-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
 </div>
