@@ -6,11 +6,11 @@
 
 <h3 align="center"> Contact </h3>
 <div align="center">
-  <h4> Home page </h4>
+  <h3> Home page </h3>
   <a href="https://paulsung.netlify.app/">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Home page-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <h4> Email </h4>
+  <h3> Email </h3>
   <a href="paulsung@knu.ac.kr">
     <img
       src="https://img.shields.io/badge/paulsung@knu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
